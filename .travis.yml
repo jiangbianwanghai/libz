@@ -8,3 +8,6 @@ php:
   - 7.0
 
 script: phpunit tests
+
+notifications:
+  slack: jiangbianwanghai:SklSZHKIP7EvIle7q8Nb5My0
